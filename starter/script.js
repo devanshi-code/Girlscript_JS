@@ -77,3 +77,5 @@
 // strict mode
 // typeof
 // console.log
+
+console.log(4+2);
